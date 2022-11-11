@@ -8,7 +8,7 @@ import java.util.prefs.PreferencesFactory;
 
 public class PreferentialVote {
 
-    enum FoodChoice {
+    public enum FoodChoice {
         ROTI, GREEK, PIZZA, BURGER, TURKISH, JERUSALEM
     }
     public String voter;
